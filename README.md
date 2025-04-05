@@ -1,0 +1,1 @@
+# KiCad-project-for-low-pass-gate-based-on-Buchla-292
